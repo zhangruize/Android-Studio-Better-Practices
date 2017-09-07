@@ -16,6 +16,9 @@
 ## xml中的Tools的命名空间([官网](https://developer.android.com/studio/write/tool-attributes.html#design-time_view_attributes))
 你真的会用吗？
 
+## 每次还要一系列操作才能跳转到要测试的Activity?
+右键就可以运行Activity哦。或者简单更改下运行配置。千万别冒傻气通过intent-filter或者手动点击多次切换才跳转到要测试的页面。。。
+
 # 附录
 ## 深入理解Gradle
 
