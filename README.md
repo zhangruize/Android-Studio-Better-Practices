@@ -13,7 +13,8 @@
 ## Translate Editor 翻译编辑器
 你真的会管理strings.xml吗？
 
-
+## xml中的Tools的命名空间([官网](https://developer.android.com/studio/write/tool-attributes.html#design-time_view_attributes))
+你真的会用吗？
 
 # 附录
 ## 深入理解Gradle
